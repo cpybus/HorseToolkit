@@ -1,0 +1,17 @@
+name: HorseToolkit
+main: me.chris.HorseToolkit.HorseToolkitMain
+version: 1.0
+description: A plugin.
+commands:
+    HorseToolkit:
+        description: This is the same thing as using sc, except longer... So pretty useless.
+    hTP:
+        description: TP when youre on a horse
+    hback:
+        description: To TP back after htp-ing
+    haccept:
+        description: Accepts someones request
+    hstats:
+        description: Provides statistics of the horse
+    hsetowner:
+        description: Provides statistics of the horse
